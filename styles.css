@@ -1,13 +1,15 @@
 
 /* Your CSS C.ode here. */
-div{
-	border: 15px solid blue;
+.box1{
+	border:15px solid blue;
 	padding:50px;
 	margin:20px;
 	background-color:lightblue;
+	
 }
-p{
+div  div{
 	border:1px solid black;
 	width:300px;
 	background-color:lightblue;
 }
+
